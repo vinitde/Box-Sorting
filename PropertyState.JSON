@@ -1,0 +1,13 @@
+{
+  "PropertyTableColumnFilters": [
+    {
+      "NameVisible": true,
+      "AddressVisible": true,
+      "DisplayFormatVisible": true,
+      "MonitorVisible": true,
+      "ConsistentModifyVisible": false,
+      "CommentVisible": true,
+      "TableId": "4db02369-e523-41db-a7db-feea59930927"
+    }
+  ]
+}

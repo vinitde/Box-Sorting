@@ -1,0 +1,27 @@
+[
+  {
+    "IsSelectedSimModel": true,
+    "Label": "SimView_1",
+    "IoContainerModel": {
+      "SimulationItemModelList": [
+        {
+          "$type": "plcsim.Simulation.IoTableModel, plcsim",
+          "x": 20.0,
+          "y": 20.0,
+          "z": 8,
+          "Name": "SimTable_1",
+          "Id": "4db02369-e523-41db-a7db-feea59930927",
+          "CachedPlcInformation": {
+            "InstanceGuid": "02f1fc65-069d-4e01-be40-e3376c67912f",
+            "PlcName": "Unconfigured PLC",
+            "InstanceName": "Instance_1",
+            "PlcFamily": 1,
+            "PlcTypeString": "S7_1200"
+          },
+          "IoItemList": []
+        }
+      ]
+    },
+    "Version": "18.00.00.00"
+  }
+]

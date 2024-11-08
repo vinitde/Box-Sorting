@@ -1,0 +1,29 @@
+[
+  {
+    "PlcName": "Unconfigured PLC",
+    "InstanceName": "Instance_1",
+    "InstanceGuid": "02f1fc65-069d-4e01-be40-e3376c67912f",
+    "PlcType": 1,
+    "PlcId": 0,
+    "WasPoweredOnWhenSaved": true,
+    "IsUsingRuntimeApi": false,
+    "IsConfigured": false,
+    "TimeScalingValue": 1.0,
+    "Version": "18.00.00.00",
+    "Vplc": {
+      "$type": "plcsim.Vplc.VplcApi.VplcApiPlc, plcsim",
+      "PlcName": "Unconfigured PLC",
+      "PlcType": 1,
+      "PlcID": 0,
+      "IsConfigured": false,
+      "CycleTimeoutMode": 1,
+      "CycleTimeoutTime": 150,
+      "VplcInputOutput": {
+        "$type": "plcsim.Vplc.VplcApi.VplcApiInputOutput, plcsim"
+      }
+    },
+    "LicenseSelection": {
+      "SelectedLicense": 0
+    }
+  }
+]
